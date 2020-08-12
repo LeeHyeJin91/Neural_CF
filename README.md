@@ -1,6 +1,6 @@
 # Neural_CF
 
-본 레파지토리는 neural collaborative filtering 모델을 tensorflow 2.0 버전으로 구현한 것입니다. Victor의 [블로그](https://medium.com/@victorkohler/collaborative-filtering-using-deep-neural-networks-in-tensorflow-96e5d41a39a1)를 참고했으며, 해당 블로그는 tensorflow 1 버전으로 구현되어 있습니다.
+본 레파지토리는 neural collaborative filtering 모델을 tensorflow 2.0 버전으로 구현한 것입니다. Victor의 [블로그](https://medium.com/@victorkohler/collaborative-filtering-using-deep-neural-networks-in-tensorflow-96e5d41a39a1)를 참고하였으며, 해당 블로그는 tensorflow 1 버전으로 구현되어 있습니다.
 
 
 ### 파일 설명 
