@@ -15,7 +15,7 @@
 
 ### 데이터
 
-* usersha1-artmbid-artname-plays.tsv : lastfm의 음악 스트리밍 데이터로 user, item(artist), plays(play횟수)로 이뤄짐. 
+* usersha1-artmbid-artname-plays.tsv : lastfm의 음악 스트리밍 데이터  
 * 출처: http://ocelma.net/MusicRecommendationDataset/lastfm-360K.html
 
 
